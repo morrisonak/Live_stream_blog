@@ -9,7 +9,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Insightful Buzz/title>
+        <title>Insightful Buzz</title>
       </Head>
 
       <div className='posts'>
